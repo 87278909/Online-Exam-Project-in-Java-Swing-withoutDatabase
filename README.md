@@ -19,5 +19,5 @@ This project is an interactive Java quiz application that tests users' knowledge
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/online-java-quiz.git
+   git clone https://https://github.com/87278909/online-java-quiz.git
    cd online-java-quiz
